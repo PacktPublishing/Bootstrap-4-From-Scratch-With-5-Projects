@@ -1,0 +1,29 @@
+Hey guys welcome to Bootstrap 4 from scratch with 5 projects. In this course well be covering everything in Bootstrap 4.1 from utilities to css classes, javascript widgets and sass.
+##
+THis course was designed for absolutley anyone that knows or doesnt know anything about the Bootstrap framework. Were starting from absolute scratch and were gonna look at things piece by piece. So if youve never used it before or youve used bootstrap 3 or even your a pro and you just wanna build some projects, I think youll get a lot from this course.
+##
+Now this course was initially released in 2017 using Bootstrap beta but every video and the projects have been completely redone to use the latest version at this time which is 4.1.1. The course has also been simplified by re moving the compiling with gulp and using npm to install bootstrap. I found many people were struggling with this and it took away from actully learning the Bootstrap framework. Youll still elarn how to use sass in one of the projects but well use  an easy to use graphical tool called koala to compile our sass.
+##
+So what should you know before taking this course? You should definitley know the basics of html, preferby html5 because we will be using html5 sematic tags like header, footer, section and so on. You dont need to know a ton of css but the basics will help. We will be writing custom css in addition to bootstrap markup.
+It says javascript just because we will write a little bit of custom jquery but honestly its fine if your not really familiar with javascript.
+Finally if youve worked with bootstrap 3 in the past it will give you a god idea of whats included and how the framework works but its definitley not needed.
+###
+So the this course has 11 sections with 5 - 10 lectures per section. Well have 4 sections using the sandbox which ill explain in a second and then 5 sections with 1 project each.
+Also all the code is included in this course. Each project into video will include the final code for that project or theme.
+###
+Alright so lets talk about the bootstrap sandbox. This is a custom UI that I created that is broken up into sections that correspond with the course and each one starts with just bare html and then in each lecture well add the bootstrap markup together. This prevents you from having to type out all of the basic html and you can focus on bootstrap. Its broken up into utilities, css components, the grid and flexbox and javascript widgets.
+###
+Once we complete the sandbox and you know everything that bootstrap 4 offers, well go ahead and start the projects. All projects are completley responsive and mobile friendly. The first is called looplab and is basically a landing page for a social network type site. In addition to bootstrap markup well be adding some basic custom css for thigs like image overlays. All images are included in the course files as well.
+##
+Next we have mizuxe which is a landing page for a book. In this project Ill show you how to use bootstrap with sass which is a css preprocessor and allws you to customize the bootstrap css. Well be using the koala program with this theme
+##
+Project 3 is glozzom which is a multi page theme with a carousel, photo gallery with lightboxes, a testimonial slider and more
+## Project 4 is blogen which is a backen ui for a blog platform. This will have quite a few pages including a dashboard, login, settings and profile page
+##
+the last prject is a portfolio theme that uses the collapse module as pages. Well also use the flex classes quite abit here as well.
+
+And as you can see these are all mobile friendly themes
+
+###
+
+Alright so hopefully you enjoy the course and after youll be able to create your own websites and uis with bootstrap 4. Lets get started

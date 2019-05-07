@@ -1,0 +1,30 @@
+Alright guys i dont wanna spend too much time with boring lectures but i do want to just quickly address what bootstrap actually is.
+
+Bootstrap is an open source front end or ui framework for fast web development or I should say UI development.
+
+It gives us tons of tools to create websites and application UIS. We get all types of utility classees for margin and padding, typography and so on as well as component classes that are basically pre made templates for things like alerts, progress bars, etc
+We also get built in javascript widgets and plugins  and an easy to use mobile first responsive grid system. To do this stuff from scratch with pure html and custom css takes alot of time and knowledge. Bootstrap makes this very easy.
+##
+So this brings us to its advantages
+
+Browser compatability is a huge one. Your own custom css may not look right in all browsers but bootstrap has been tailored to be completley compatible in all modern browsers.
+It promotes much faster development with pre made classes and stying as well as a responsive grid
+Its gret for developers that arent so good at design and UI
+Its very easy to learn
+and its responsive by nature.
+
+##
+You can install and use bootstrap in a few different ways. You can include the cdn which is a remote link to the css and javascript files. CDN is a content delivery network theyre very fast because files are served from high capacity infrastructures, it doesnt bog up your server and it can boost performance and save money so unless your compiling your own files from sass, a cdn is the wy to go and its what well be mostly using in this course aside from the sass project. At least for the css.
+
+You could also download the files from getbootstrap.com but I wouldnt suggest that over a cdn
+
+And then you also have package managers like npm and yarn which you can install on your system and then install bootstrap from the command line. This is a good choice for more advanced development where you wanna compile your own version or merge files together and so on.
+
+##
+
+So lets look more into what bootstrap includes before we get started. So for ui utilities we have the grid system, text and typography, positioning claasses, spacing with margin and padding, sizing elements, aligning text and elements, color classes for text, backgrounds buttons, etc. Image utilities, responsive utilities and box shadows
+
+
+
+##
+Alright so that should give you an idea of the things bootstrap offers you as a developer or designer. In the next video were gonna quickly go over some additions to version 4 from version 3 and then well get our environemtn setup with our text editor

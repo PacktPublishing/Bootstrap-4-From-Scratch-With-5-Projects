@@ -1,0 +1,29 @@
+Alright so before we get started lets take a quick look at some of the big changes from version 3 to 4. So as far as design, bootstrap 4 has a much more flat look to it as oppose to gradients. It seems to be the theme  in general style to move to more flat designs. It has a more subtle look, we also more color classes likt the light and dark classes as well as the outlined button styles
+###
+The grid system has also been improved. The entire architecture has been changed as Bootstrap 4s grid uses flexbox. It also moved away from fixed pixel units to rem units which goive it an overal more responsive dynamic.
+
+We also have the addition of the xl size for when you wanna style things specifically for really big screens above 1200 pizels.
+##
+The grid isnt the only part of bootstrap that uses flexbox in fact the navbar and many other components use it and we also have flex based classes to create your own flex containers and items as you can see on the side here. Dont worry if youve never used flexbox before, well get into that.
+##
+Bootstrap 4 also introduced cards which have replced panels and wells in version 3. These also use flex and can be formatted ion all different ways includeing with or without a header, with images, different background colors and so on.
+##
+Theres also been changes to the navbar. It also uses a flat design just like the buttons, more color options, it uses flexbox for alignment as oppose to floats. And we can add diferent sizes in the navbar-expand class to set the responsiveness to kick in at different device widths.
+##
+Some changes to the forms. Version 4 dropped the horizontal class. Forms using grids will require the row class and can use col-form-label for labels.
+
+We can also increase and decrease form control inputs by adding form-control-lg or sm
+
+and the help text now uses the form-text class instead of help-block
+
+###
+Another big change is bootstrap 3 uses the less css compiler and version 4 has m oved to sass due to its popularity over less. Version 3 did have a port for dadd but version 4 uses it nativley. It also uses libsass to compile faster.
+##
+Some other changes, we have bigger fonts and headings along with custom heading display classes,
+Support for ie8 and 9 have been dropped
+We also have the reboot module which builds upon Normalize, providing many HTML elements with somewhat opinionated styles using only element selectors. 
+We now have inversed tables or dark tables
+Glyphicons were dropped and its now reccomended to use th font awesome library
+We also have awesome spacing classes for adding margin and padding on any side or sides of an element.
+
+So those are some of the changes. Now lets jump in and get our environment etup to start learning bootstrap 4
