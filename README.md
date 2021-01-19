@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/bootstrap-4-from-scratch-with-5-projects-video/9781789535457)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Bootstrap 4 From Scratch With 5 Projects [Video]
 This is the code repository for [Bootstrap 4 From Scratch With 5 Projects [Video]](https://www.packtpub.com/application-development/practice-javascript-build-5-interactive-mini-applications-scratch-video?utm_source=github&utm_medium=repository&utm_campaign=9781838822446), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
